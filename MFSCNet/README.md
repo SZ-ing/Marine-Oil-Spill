@@ -41,4 +41,5 @@ Download link of the model for oil spill detection
 ## Reference
 ```
 https://github.com/bubbliiiing/yolox-pytorch
+https://github.com/Megvii-BaseDetection/YOLOX
 ```
