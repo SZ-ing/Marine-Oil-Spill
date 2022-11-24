@@ -17,7 +17,7 @@ This code was tested with python 3.6.13
 To train MFSCNet model on your own training images, run
 
 ```
-python train.py  --img_flooder 'image path' --mask_flooder 'mask_path'
+python train.py  --img_flooder 'image path' --mask_flooder 'mask path'
 ```
 
 ### Predict
@@ -26,6 +26,9 @@ To test model on your own images, run
 ```
 python predict.py
 ```
+
+The predict sample images are in the folder of 'img' 
+
 
 
 
