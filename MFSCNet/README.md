@@ -37,3 +37,8 @@ Download link of the model for oil spill detection
 ```
 链接：https://pan.baidu.com/s/1s0c_dZDBMYWudyHtgy2fqQ 提取码：1234
 ```
+
+## Reference
+```
+https://github.com/bubbliiiing/yolox-pytorch
+```
